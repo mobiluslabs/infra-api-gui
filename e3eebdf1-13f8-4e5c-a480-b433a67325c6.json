@@ -5,7 +5,5 @@
   "dev-mobitalk.app.mobitalk.io",
   "dev-voice.app.mobitalk.io",
   "dev.app.mobitalk.io",
-  "develop.app.mobitalk.io",
-  "feature-ci-dev.app.mobitalk.io",
-  "feature-github-ci-dev.app.mobitalk.io"
+  "develop.app.mobitalk.io"
 ]
