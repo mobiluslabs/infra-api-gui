@@ -4,5 +4,6 @@
   "ci.app.mobitalk.io",
   "dev-mobitalk.app.mobitalk.io",
   "dev-voice.app.mobitalk.io",
-  "develop.app.mobitalk.io"
+  "develop.app.mobitalk.io",
+  "feature-test.app.mobitalk.io"
 ]
