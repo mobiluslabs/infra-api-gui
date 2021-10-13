@@ -2,8 +2,8 @@
   "master.app.mobitalk.io",
   "mobitalk.io",
   "dev-mobitalk.app.mobitalk.io",
+  "dev-monitoring.app.mobitalk.io",
   "dev-voice.app.mobitalk.io",
   "develop.app.mobitalk.io",
-  "feature-monitoring.app.mobitalk.io",
-  "feature-snapshot.app.mobitalk.io"
+  "feature-monitoring.app.mobitalk.io"
 ]
