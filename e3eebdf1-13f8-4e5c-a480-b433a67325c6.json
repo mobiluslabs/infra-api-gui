@@ -7,7 +7,6 @@
   "develop.app.mobitalk.io",
   "feature-chat-messaging.app.mobitalk.io",
   "feature-opus-8k.app.mobitalk.io",
-  "feature-ota-update.app.mobitalk.io",
   "feature-push-notification.app.mobitalk.io",
   "feature-video-messaging.app.mobitalk.io"
 ]
