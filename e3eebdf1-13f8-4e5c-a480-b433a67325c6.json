@@ -5,8 +5,8 @@
   "dev-monitoring.app.mobitalk.io",
   "dev-voice.app.mobitalk.io",
   "develop.app.mobitalk.io",
-  "feature-chat-messaging.app.mobitalk.io",
   "feature-opus-8k.app.mobitalk.io",
+  "feature-ota-update-v2.app.mobitalk.io",
   "feature-push-notification.app.mobitalk.io",
   "feature-video-messaging.app.mobitalk.io"
 ]
