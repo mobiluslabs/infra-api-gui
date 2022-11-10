@@ -1,12 +1,9 @@
 [
   "master.app.mobitalk.io",
   "mobitalk.io",
-  "dev-mobitalk.app.mobitalk.io",
-  "dev-voice.app.mobitalk.io",
   "develop.app.mobitalk.io",
   "feature-cron-chat-images.app.mobitalk.io",
   "feature-dashboard-improvements.app.mobitalk.io",
-  "feature-opus-8k.app.mobitalk.io",
   "feature-ota-update-v2.app.mobitalk.io",
   "feature-push-notifications.app.mobitalk.io",
   "feature-sip.app.mobitalk.io"
