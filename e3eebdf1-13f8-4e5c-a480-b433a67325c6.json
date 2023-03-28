@@ -2,11 +2,12 @@
   "master.app.mobitalk.io",
   "mobitalk.io",
   "develop.app.mobitalk.io",
+  "development.mobitalk.space",
+  "james.mobitalk.io",
   "feature-dashboard-improvements.app.mobitalk.io",
   "feature-sip.app.mobitalk.io", 
   "feature-fs-consultants.app.mobitalk.io",
   "feature-gcp.app.mobitalk.io",
   "feature-networks-switching.app.mobitalk.io",
-  "development.mobitalk.space",
   "feature-monitortest.app.mobitalk.io"
 ]
