@@ -8,6 +8,6 @@
   "feature-sip.app.mobitalk.io", 
   "feature-networks-switching.app.mobitalk.io",
   "feature-monitortest.app.mobitalk.io",
-  "feature-cleanup.app.mobitalk.io",
-  "feature-fantomcalls.app.mobitalk.io"
+  "feature-fantomcalls.app.mobitalk.io",
+  "feature-aws-compatiable.app.mobitalk.io"
 ]
