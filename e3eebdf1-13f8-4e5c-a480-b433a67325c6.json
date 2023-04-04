@@ -9,5 +9,6 @@
   "feature-networks-switching.app.mobitalk.io",
   "feature-monitortest.app.mobitalk.io",
   "feature-fantomcalls.app.mobitalk.io",
-  "feature-aws-compatiable.app.mobitalk.io"
+  "feature-aws-compatiable.app.mobitalk.io",
+  "feature-application-metrics.app.mobitalk.io"
 ]
