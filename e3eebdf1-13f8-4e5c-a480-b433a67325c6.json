@@ -11,4 +11,6 @@
   "feature-fantomcalls.app.mobitalk.io",
   "feature-aws-compatiable.app.mobitalk.io",
   "feature-application-metrics.app.mobitalk.io"
+  "feature-aws-compatiable.app.mobitalk.io"
+  "feature-breakup-rec.app.mobitalk.io"
 ]
