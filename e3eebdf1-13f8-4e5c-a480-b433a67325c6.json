@@ -1,13 +1,10 @@
 [
   "master.app.mobitalk.io",
   "mobitalk.io",
+  "dev-mobitalk.app.mobitalk.io",
+  "dev-voice.app.mobitalk.io",
   "develop.app.mobitalk.io",
-  "development.mobitalk.space",
-  "james.mobitalk.io",
-  "feature-dashboard-improvements.app.mobitalk.io",
-  "feature-sip.app.mobitalk.io", 
-  "feature-networks-switching.app.mobitalk.io",
-  "feature-monitortest.app.mobitalk.io",
   "feature-aws-compatiable.app.mobitalk.io",
-  "feature-breakup-rec.app.mobitalk.io"
+  "feature-breakup-rec.app.mobitalk.io",
+  "feature-dashboard-improvements.app.mobitalk.io"
 ]
