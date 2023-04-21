@@ -5,5 +5,6 @@
   "develop.app.mobitalk.io",
   "feature-aws-compatiable.app.mobitalk.io",
   "feature-breakup-rec.app.mobitalk.io",
-  "feature-testing.app.mobitalk.io"
+  "feature-testing.app.mobitalk.io", 
+  "feature-stt-chat.app.mobitalk.io"
 ]
