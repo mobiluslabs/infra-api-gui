@@ -5,7 +5,7 @@
   "develop.app.mobitalk.io",
   "feature-breakup-rec.app.mobitalk.io",
   "feature-testing.app.mobitalk.io", 
-  "feature-rec-title.app.mobitalk.io",
+  "feature-oauth2-authorization.app.mobitalk.io",
   "feature-breakup-recordings.app.mobitalk.io",
   "feature-techspike40ms.app.mobitalk.io",
   "feature-redirect-urls.app.mobitalk.io"
