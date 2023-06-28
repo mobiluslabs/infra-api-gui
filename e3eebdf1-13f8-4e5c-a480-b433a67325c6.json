@@ -2,11 +2,7 @@
   "master.app.mobitalk.io",
   "mobitalk.io",
   "develop.app.mobitalk.io",
-  "feature-ota-2.app.mobitalk.io",
-  "feature-hide-parent-recording.app.mobitalk.io", 
+  "feature-rec-timeout.app.mobitalk.io",
   "feature-902-login-email-address.app.mobitalk.io",
-  "feature-oauth2-authorization.app.mobitalk.io",
-  "feature-techspike40ms.app.mobitalk.io",
-  "feature-redirect-urls.app.mobitalk.io",
   "feature-metrics.app.mobitalk.io"
 ]
