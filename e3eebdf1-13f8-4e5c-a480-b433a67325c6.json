@@ -6,7 +6,6 @@
   "feature-ota-2.app.mobitalk.io",
   "feature-bug-duration.app.mobitalk.io",
   "feature-902-login-email-address.app.mobitalk.io",
-  "feature-metrics.app.mobitalk.io",
   "test1.app.mobitalk.io",
   "test2.app.mobitalk.io",
   "test3.app.mobitalk.io",
@@ -20,6 +19,7 @@
   "test11.app.mobitalk.io",
   "test12.app.mobitalk.io",
   "test13.app.mobitalk.io",
+  "feature-metrics.app.mobitalk.io",
   "test14.app.mobitalk.io",
   "test15.app.mobitalk.io"
 ]
