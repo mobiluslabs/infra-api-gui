@@ -9,6 +9,7 @@
   "feature-device-events.app.mobitalk.io",
   "feature-automation.app.mobitalk.io",
   "feature-metrics.app.mobitalk.io",
+  "feature-conversation.app.mobitalk.io",
   "test14.app.mobitalk.io",
   "test15.app.mobitalk.io"
 ]
