@@ -1,16 +1,11 @@
 [
   "master.app.mobitalk.io",
+  "staging.app.mobitalk.io",
   "mobitalk.io",
   "develop.app.mobitalk.io",
-  "feature-rec-timeout.app.mobitalk.io",
-  "feature-ota-3.app.mobitalk.io",
-  "feature-bug-duration.app.mobitalk.io",
-  "feature-902-login-email-address.app.mobitalk.io",
-  "feature-device-events.app.mobitalk.io",
   "feature-automation.app.mobitalk.io",
-  "feature-metrics.app.mobitalk.io",
   "feature-conversation.app.mobitalk.io",
-  "test14.app.mobitalk.io",
-  "test15.app.mobitalk.io",
-  "feature-deltest6.app.mobitalk.io"
+  "feature-device-events.app.mobitalk.io",
+  "feature-oauth.app.mobitalk.io",
+  "feature-ota-3.app.mobitalk.io"
 ]
