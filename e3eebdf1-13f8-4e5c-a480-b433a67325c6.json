@@ -6,6 +6,7 @@
   "feature-automation.app.mobitalk.io",
   "feature-conversation.app.mobitalk.io",
   "feature-device-events.app.mobitalk.io",
+  "feature-half-duplex.app.mobitalk.io",
   "feature-oauth.app.mobitalk.io",
   "feature-ota-3.app.mobitalk.io"
 ]
