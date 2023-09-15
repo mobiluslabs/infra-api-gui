@@ -5,6 +5,7 @@
   "develop.app.mobitalk.io",
   "feature-automation.app.mobitalk.io",
   "feature-half-duplex.app.mobitalk.io",
+  "feature-oauth.app.mobitalk.io",
   "feature-s3-migration.app.mobitalk.io",
-  "feature-oauth.app.mobitalk.io"
+  "feature-test.app.mobitalk.io"
 ]
