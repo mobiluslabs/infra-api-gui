@@ -3,9 +3,8 @@
   "staging.app.mobitalk.io",
   "mobitalk.io",
   "develop.app.mobitalk.io",
-  "development.mobitalk.io",
   "feature-automation.app.mobitalk.io",
-  "feature-half-duplex.app.mobitalk.io",
+  "feature-csv-upload.app.mobitalk.io",
   "feature-oauth.app.mobitalk.io",
   "feature-s3-migration.app.mobitalk.io",
   "feature-test.app.mobitalk.io"
