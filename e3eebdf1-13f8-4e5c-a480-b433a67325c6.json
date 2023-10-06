@@ -2,6 +2,7 @@
   "master.app.mobitalk.io",
   "staging.app.mobitalk.io",
   "mobitalk.io",
+  "mobitalk.ngrok.io",
   "develop.app.mobitalk.io",
   "feature-automation.app.mobitalk.io",
   "feature-csv-upload.app.mobitalk.io",
