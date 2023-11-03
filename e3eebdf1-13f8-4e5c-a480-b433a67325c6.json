@@ -6,5 +6,6 @@
   "development.mobitalk.io",
   "mobitalk.ngrok.io",
   "feature-automation.app.mobitalk.io",
-  "feature-test.app.mobitalk.io"
+  "feature-test.app.mobitalk.io",
+  "feature-tracing.app.mobitalk.io"
 ]
