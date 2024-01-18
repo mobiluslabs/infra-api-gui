@@ -1,7 +1,8 @@
 [
   "master.app.mobitalk.io",
-  "develop.app.mobitalk.io",
+  "staging.app.mobitalk.io",
   "mobitalk.io",
+  "mobitalk.ngrok.io",
   "development.mobitalk.io",
-  "mobitalk.ngrok.io"
+  "develop.app.mobitalk.io"
 ]
